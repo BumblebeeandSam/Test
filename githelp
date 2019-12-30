@@ -1,0 +1,14 @@
+To make a new git repo:
+
+01. git init #repo name#
+
+02. cd #repo name#
+
+03.
+git add #filename#
+
+git commit -m #messsage#
+
+git remote add origin https://github.com/#username#/#reponame#.git
+
+git push origin master
